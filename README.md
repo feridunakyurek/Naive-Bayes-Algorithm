@@ -1,4 +1,4 @@
-# Feridun Akyürek 200757055 - MBM3-352 Makine Öğrenmesi Dersi
+# Feridun Akyürek 200757055 - MBM3-352 Makine Öğrenmesine Giriş Dersi
 
 Bu proje MBM3-352 - Makine Öğrenmesine giriş dersi kapsamında dönem projesi olarak geliştirilmiştir.
 
